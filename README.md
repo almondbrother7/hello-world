@@ -19,7 +19,8 @@ The Best Whippet Ever:
 [![Dogs 101 - Whippet!](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YmTTUPLrc5M)
 
 
----Here's some code:
+---
+Here's some code:
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
