@@ -26,7 +26,8 @@ alert(s);
 ```
 
 ---
-Table of stuff to do, based on weather:
+Table of stuff what to do, based on weather:
+
 | Weather        | Where           | What  |
 | ------------- |:-------------:| -----:|
 | Cold, nasty      | Bahamas | SCUBA |
